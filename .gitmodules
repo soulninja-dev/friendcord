@@ -1,4 +1,8 @@
 [submodule "server"]
 	path = server
 	url = git@github.com:SoulNinja-dev/friendcord-api.git
-    branch = main
+    	branch = main
+[submodule "client"]
+	path = client
+	url = git@github.com:imsaptarshi/friendcord.git
+    	branch = main
